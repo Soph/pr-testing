@@ -92,5 +92,5 @@ mise run test:ci    # go test -race ./...
 mise run build      # build ./entire-plugin-template
 mise run build-all  # cross-build common Entire targets
 
-lalala
+lalala222
 ```
